@@ -1,6 +1,6 @@
 $pkg_name="hab-sln"
-$pkg_origin="mwrock"
-$pkg_version="0.1.0"
+$pkg_origin="manish_mehra"
+$pkg_version="0.1.1"
 $pkg_source="nosuchfile.tar.gz"
 $pkg_maintainer="Matt Wrock"
 $pkg_license=@('MIT')
